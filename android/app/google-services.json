@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "578855802950",
+    "project_id": "tmam-4a20d",
+    "storage_bucket": "tmam-4a20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578855802950:android:a2cf03e0945b1a3c7b1247",
+        "android_client_info": {
+          "package_name": "com.tmam.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578855802950-ijrgbneg33s1d1eljg5ukek9vuo51paa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmam.authentification",
+            "certificate_hash": "96048b59837a0bda03ca55ace3cdadf0da287ad7"
+          }
+        },
+        {
+          "client_id": "578855802950-8mqkf835honj8b39urcqetr1rkqfe7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHyyJX3rkBhYQPHNuWhD6ACyQNHY0h30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578855802950-8mqkf835honj8b39urcqetr1rkqfe7c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
